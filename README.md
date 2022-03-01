@@ -1,3 +1,13 @@
 # dotnet-microservices
-## Player Economy System
-- Basic Implementation Of .Net Microservices And React. JS Client
+
+## Player Economy System:-
+
+### -  Server (C#/.Net)
+
+- `Play.Catalog.Service (.Net Microservice)`
+- `Play.Inventory.Service (.Net Microservice)`
+
+### - Client (React. Js)
+
+- Just A Basic Client Developed In React Js To Utilize Both Services.
+
