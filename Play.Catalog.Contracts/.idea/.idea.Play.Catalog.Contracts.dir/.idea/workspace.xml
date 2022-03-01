@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbd466e3-4e89-4ec7-968f-049b0a5822ae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Play.Catalog.Service/.idea/.idea.Play.Catalog.Service.dir/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/Play.Catalog.Service.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/Play.Catalog.Service.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/obj/Debug/net6.0/Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/obj/Debug/net6.0/Play.Catalog.Service.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/obj/Debug/net6.0/Play.Catalog.Service.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/obj/Debug/net6.0/Play.Catalog.Service.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/obj/Play.Catalog.Service.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/obj/Play.Catalog.Service.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/obj/Play.Catalog.Service.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/obj/Play.Catalog.Service.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Catalog.Service/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Catalog.Service/obj/staticwebassets.pack.sentinel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/Clients/CatalogClient.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/Clients/CatalogClient.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/Controllers/ItemsController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/Controllers/ItemsController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/Dtos.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/Dtos.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/Play.Inventory.Service.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/Play.Inventory.Service.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/Properties/launchSettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/Utils/Extensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/Utils/Extensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/bin/Debug/net6.0/Play.Inventory.Service.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/bin/Debug/net6.0/Play.Inventory.Service.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/bin/Debug/net6.0/Play.Inventory.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/bin/Debug/net6.0/Play.Inventory.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/bin/Debug/net6.0/Play.Inventory.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/bin/Debug/net6.0/Play.Inventory.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/bin/Debug/net6.0/ref/Play.Inventory.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/bin/Debug/net6.0/ref/Play.Inventory.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/Play.Inventory.Service.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/ref/Play.Inventory.Service.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Debug/net6.0/ref/Play.Inventory.Service.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Play.Inventory.Service.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/Play.Inventory.Service.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Play.Inventory.Service/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/../Play.Inventory.Service/obj/staticwebassets.pack.sentinel" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="25mNamxYF8F8VUcHKXDs0pMITdi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbd466e3-4e89-4ec7-968f-049b0a5822ae" name="Changes" comment="" />
+      <created>1646128369423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646128369423</updated>
+      <workItem from="1646128376081" duration="58000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
